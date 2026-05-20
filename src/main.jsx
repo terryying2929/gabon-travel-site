@@ -76,7 +76,7 @@ const content = {
       {
         title: 'Business Travel',
         body: 'Airport pickup, hotel planning, meeting logistics, interpreters, and city transfers for work trips.',
-        image: asset('destination-culture'),
+        image: asset('hero-gabon-travel'),
       },
       {
         title: 'Custom Itineraries',
@@ -185,7 +185,7 @@ const content = {
       {
         title: '商务出行',
         body: '机场接送、酒店协调、会议交通、翻译协助与利伯维尔市内行程支持。',
-        image: asset('destination-culture'),
+        image: asset('hero-gabon-travel'),
       },
       {
         title: '私人定制路线',

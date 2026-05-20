@@ -26,7 +26,7 @@ const CONTACT = {
   address: 'Libreville, Gabon',
 };
 
-const asset = (name) => `/assets/${name}.png`;
+const asset = (name) => `${import.meta.env.BASE_URL}assets/${name}.png`;
 
 const content = {
   en: {
